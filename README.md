@@ -4,7 +4,9 @@ Hi 👋 My name is Jean-Noël Drugmand
 Full-stack Developer, former team leader and manager
 ----------------------------------------------------
 
-I've been learning to code for 18 months, after switching careers. I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL @[Le Wagon](https://www.lewagon.com/) , and React and Redux @ OpenClassRooms. Self-taught in my first career, audiovisual sector in technical and strategic professions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
+
+I've been learning to code for 18 months, after switching careers. I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL @[Le Wagon](https://www.lewagon.com/) ![LeWagon (1)](https://github.com/daddyjanno/daddyjanno/assets/100160246/8c7675e8-bb9e-45f2-b618-73d2d3ebe2ee)
+, and React and Redux @ [OpenClassRooms](https://openclassrooms.com/en/paths/878-javascript-react-developer) ![OC](https://github.com/daddyjanno/daddyjanno/assets/100160246/a3a1d85b-ac30-49b9-af4c-da13d864abad). Self-taught in my first career, audiovisual sector in technical and strategic professions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
 
 * 🌍  I'm based in Garches, Ile de France, France
 * ✉️  You can contact me at [jn.drugmand@gmail.com](mailto:jn.drugmand@gmail.com)
