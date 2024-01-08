@@ -5,13 +5,13 @@ Full-stack Developer, former team leader and manager
 ----------------------------------------------------
 
 
-I've been learning to code for 18 months, after switching careers. I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL @[Le Wagon](https://www.lewagon.com/) ![LeWagon (1)](https://github.com/daddyjanno/daddyjanno/assets/100160246/8c7675e8-bb9e-45f2-b618-73d2d3ebe2ee)
-, then React and Redux @ [OpenClassRooms](https://openclassrooms.com/en/paths/878-javascript-react-developer) ![OC](https://github.com/daddyjanno/daddyjanno/assets/100160246/a3a1d85b-ac30-49b9-af4c-da13d864abad). Self-taught in my first career, audiovisual sector in technical and strategic positions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
+I've been learning to code for 18 months, after switching careers. I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL @[Le Wagon](https://www.lewagon.com/) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/lewagon.svg?token=GHSAT0AAAAAACAD4WJVGTRJA5FWDTFAZIJUZM35UPQ" width="36" height="36" alt="Le Wagon"/>
+, then React and Redux @ [OpenClassRooms](https://openclassrooms.com/en/paths/878-javascript-react-developer) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/openclassrooms.svg?token=GHSAT0AAAAAACAD4WJVCUMLH3YWWNWN3XG2ZM35WDQ" width="36" height="36" alt="Le Wagon"/>. Self-taught in my first career, audiovisual sector in technical and strategic positions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
 
-* 🌍  I'm based in Garches, Ile de France, France
+* 🌍  I'm based in [Garches](https://www.google.com/maps/place/92380+Garches/@48.8469227,2.1757749,15z/data=!3m1!4b1!4m6!3m5!1s0x47e67b5914a1001d:0xea78d3d1f5f8dae8!8m2!3d48.846066!4d2.188703!16zL20vMDRqanZ0?entry=ttu), Ile de France, France
 * ✉️  You can contact me at [jn.drugmand@gmail.com](mailto:jn.drugmand@gmail.com)
-* 🧠  I'm learning Redux and Redux Toolkit
-* 🤝  I'm open to collaborating on exciting projects as a frontend / fulls-stack developer
+* 🧠  I'm currently learning Redux, Redux Toolkit and TypeScript
+* 🤝  I'm open to collaborating on exciting projects as a frontend / full-stack developer
 
 ### Skills
 
@@ -45,7 +45,7 @@ I've been learning to code for 18 months, after switching careers. I started wit
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/daddyjanno" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/jean-noel-drugmand" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/daddyjanno" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daddyjanno/Icons/main/socials/github-dark.svg?token=GHSAT0AAAAAACAD4WJVVN4FAEW5DYCCPYIEZM35JPA" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daddyjanno/Icons/main/socials/github.svg?token=GHSAT0AAAAAACAD4WJUKCD6SMQZK2FOO7UMZM35KZQ" /> <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/socials/github.svg?token=GHSAT0AAAAAACAD4WJUKCD6SMQZK2FOO7UMZM35KZQ" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/jean-noel-drugmand" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daddyjanno/Icons/main/socials/linkedin-dark.svg?token=GHSAT0AAAAAACAD4WJUPL7OJKQTLECPA27IZM35L7A" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daddyjanno/Icons/main/socials/linkedin.svg?token=GHSAT0AAAAAACAD4WJV2B6Z7KQUPPMU4FPUZM35MHA" /> <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/socials/linkedin.svg?token=GHSAT0AAAAAACAD4WJV2B6Z7KQUPPMU4FPUZM35MHA" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
