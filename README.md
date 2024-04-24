@@ -26,7 +26,7 @@ I've been learning to code for 18 months, after switching careers. I started wit
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/react-colored.svg?token=GHSAT0AAAAAACAD4WJVQVLOWSSY7VY4CGN4ZM34NVQ" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/redux-colored.svg?token=GHSAT0AAAAAACAD4WJVLJRBO77UDMHU63F4ZM34N3Q" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/nodejs-colored.svg?token=GHSAT0AAAAAACAD4WJVOCQYJXGP2HHYGFLQZM34OMQ" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/nextjs-colored.svg?token=GHSAT0AAAAAACAD4WJVOCQYJXGP2HHYGFLQZM34OMQ" width="36" height="36" alt="NextJS" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJS" /></a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/mongodb-colored.svg?token=GHSAT0AAAAAACAD4WJUFYEPXKWYWHVT7JEEZM34PFQ" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/mysql-colored.svg?token=GHSAT0AAAAAACAD4WJUJWGWFCNKEU3URFS4ZM34PPA" width="36" height="36" alt="MySQL" /></a>
