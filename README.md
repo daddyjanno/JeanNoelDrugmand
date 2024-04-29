@@ -10,7 +10,7 @@ I've been learning to code for 18 months, after switching careers. I started wit
 
 * 🌍  I'm based in [Garches](https://www.google.com/maps/place/92380+Garches/@48.8469227,2.1757749,15z/data=!3m1!4b1!4m6!3m5!1s0x47e67b5914a1001d:0xea78d3d1f5f8dae8!8m2!3d48.846066!4d2.188703!16zL20vMDRqanZ0?entry=ttu), Ile de France, France
 * ✉️  You can contact me at [jn.drugmand@gmail.com](mailto:jn.drugmand@gmail.com)
-* 🧠  I'm currently learning Redux, Redux Toolkit, TypeScript and NextJS
+* 🧠  I'm currently learning NextJS
 * 🤝  I'm open to collaborating on exciting projects as a frontend / full-stack developer
 
 ### Skills
