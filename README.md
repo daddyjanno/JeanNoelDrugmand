@@ -1,7 +1,7 @@
 Hi 👋 My name is Jean-Noël Drugmand
 ===================================
 
-Full-stack Developer, former team leader and manager
+Fullstack Developer, former team leader and manager
 ----------------------------------------------------
 
 
