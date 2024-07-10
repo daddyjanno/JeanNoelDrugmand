@@ -29,6 +29,9 @@ I've been learning to code for 18 months, after switching careers. I started wit
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/nodejs-colored.svg?token=GHSAT0AAAAAACAD4WJVOCQYJXGP2HHYGFLQZM34OMQ" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJS" /></a>
 
+<a href="https://ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/rails-colored-svg.svg" width="36" height="36" alt="Rails" /></a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/mongodb-colored.svg?token=GHSAT0AAAAAACAD4WJUFYEPXKWYWHVT7JEEZM34PFQ" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/mysql-colored.svg?token=GHSAT0AAAAAACAD4WJUJWGWFCNKEU3URFS4ZM34PPA" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/postgresql-colored.svg?token=GHSAT0AAAAAACAD4WJULJRLD62XYMGZZ7UYZM34PZQ" width="36" height="36" alt="PostgreSQL" /></a>
