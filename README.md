@@ -49,7 +49,7 @@ I've been learning to code for 18 months, after switching careers. I started wit
 
 ### Katas
 
-![Codewars](https://github.r2v.ch/codewars?user=ddjn&name=true&top_languages=true)
+[![Codewars](https://github.r2v.ch/codewars?user=ddjn&name=true&top_languages=true&hide_clan=true)](https://www.codewars.com/users/ddjn)
 
 
 ### Socials
