@@ -8,7 +8,8 @@ Fullstack Developer, former team leader and manager
 I've been learning to code after switching careers.
 I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL, API, Figma... @[Le Wagon](https://www.lewagon.com/) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/lewagon.svg" width="36" height="36" alt="Le Wagon"/>
 , then React and Redux @ [OpenClassRooms](https://openclassrooms.com/en/paths/878-javascript-react-developer) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/openclassrooms.svg" width="36" height="36" alt="Le Wagon"/>.
-I am now approaching PixiJS to turn towards creative development.. Self-taught in my first career, audiovisual sector in technical and strategic positions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
+
+I am now approaching PixiJS to turn towards creative development. Self-taught in my first career, audiovisual sector in technical and strategic positions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
 
 * 🌍  I'm based in [Garches](https://www.google.com/maps/place/92380+Garches/@48.8469227,2.1757749,15z/data=!3m1!4b1!4m6!3m5!1s0x47e67b5914a1001d:0xea78d3d1f5f8dae8!8m2!3d48.846066!4d2.188703!16zL20vMDRqanZ0?entry=ttu), Ile de France, France
 * ✉️  You can contact me at [jn.drugmand@gmail.com](mailto:jn.drugmand@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/jean-noel-drugmand/)
