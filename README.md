@@ -44,7 +44,7 @@ Self-taught in my first career, audiovisual sector in technical and strategic po
 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/heroku-colored.svg?token=GHSAT0AAAAAACAD4WJUS7HJJJQZXS3RNTP2ZM34QOA" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/figma-colored.svg?token=GHSAT0AAAAAACAD4WJUMZ6ESCTVWOMJSBIGZM34QVQ" width="36" height="36" alt="Figma" /></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/macos-colored.svg?token=GHSAT0AAAAAACAD4WJU2UZXTHSMXYYQFEYEZM34RHQ" width="36" height="36" alt="MacOS" /></a>
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/macos.svg?token=GHSAT0AAAAAACAD4WJU2UZXTHSMXYYQFEYEZM34RHQ" width="36" height="36" alt="MacOS" /></a>
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/photoshop-colored.svg?token=GHSAT0AAAAAACAD4WJUCM6JBPLVBRLJPWP6ZM35DIQ" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/aftereffects-colored.svg?token=GHSAT0AAAAAACAD4WJVZABD6B6KJJSFDCSUZM35DRA" width="36" height="36" alt="After Effects" /></a>
