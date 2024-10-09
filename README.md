@@ -9,7 +9,7 @@ I've been learning to code after switching careers.
 I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL, API, Figma... @[Le Wagon](https://www.lewagon.com/) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/lewagon.svg" width="36" height="36" alt="Le Wagon"/>
 , then React and Redux @ [OpenClassRooms](https://openclassrooms.com/en/paths/878-javascript-react-developer) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/openclassrooms.svg" width="36" height="36" alt="Le Wagon"/>.
 
-I am now approaching PixiJS to turn towards creative development. 
+I am now approaching PixiJS <a href="https://pixijs.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/Pixi.png" width="36" height="36" alt="PixiJS" /></a> to turn towards creative development. 
 
 Self-taught in my first career, audiovisual sector in technical and strategic positions, I know the importance of teamwork, and I rely on my rigor and my team spirit to take on new challenges.
 
