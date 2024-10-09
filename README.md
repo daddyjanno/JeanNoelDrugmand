@@ -15,7 +15,7 @@ Self-taught in my first career, audiovisual sector in technical and strategic po
 
 * 🌍  I'm based in [Garches](https://www.google.com/maps/place/92380+Garches/@48.8469227,2.1757749,15z/data=!3m1!4b1!4m6!3m5!1s0x47e67b5914a1001d:0xea78d3d1f5f8dae8!8m2!3d48.846066!4d2.188703!16zL20vMDRqanZ0?entry=ttu), Ile de France, France
 * ✉️  You can contact me at [jn.drugmand@gmail.com](mailto:jn.drugmand@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/jean-noel-drugmand/)
-* 🧠  I'm currently learning NextJS
+* 🧠  I'm currently learning PixiJS
 * 🤝  I'm open to collaborating on exciting projects as a frontend / full-stack developer
 
 ### Skills
@@ -33,6 +33,7 @@ Self-taught in my first career, audiovisual sector in technical and strategic po
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/redux-colored.svg?token=GHSAT0AAAAAACAD4WJVLJRBO77UDMHU63F4ZM34N3Q" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/nodejs-colored.svg?token=GHSAT0AAAAAACAD4WJVOCQYJXGP2HHYGFLQZM34OMQ" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJS" /></a>
+<a href="[https://pixijs/](https://pixijs.com/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/pixijs-colored-dark.svg" width="36" height="36" alt="PixiJS" /></a>
 
 <a href="https://ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/93bdd5cda33fd91792d741f0e7e87d7d06de30bb/skills/rails-colored-svg.svg" width="36" height="36" alt="Rails" /></a>
