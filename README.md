@@ -6,11 +6,11 @@ Fullstack Developer, former team leader and manager
 
 
 I've been learning to code after switching careers.
-I started with HTML and CSS, then Ruby, Ruby on Rails, JS, SQL, API, Figma... @ Le Wagon
-<a href="https://lewagon.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/lewagon.svg" width="20" height="20" alt="Le Wagon" /></a>
 
-<img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/lewagon.svg" width="36" height="36" alt="Le Wagon"/>
-, then React and Redux @ [OpenClassRooms](https://openclassrooms.com/en/paths/878-javascript-react-developer) <img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/schools/openclassrooms.svg" width="36" height="36" alt="Le Wagon"/>.
+I started with HTML and CSS, then Ruby, Rails, JS, SQL, API, Figma... @Le Wagon
+<a href="https://lewagon.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/lewagon.svg" width="36" height="36" alt="Le Wagon" /></a>
+, then React and Redux @OpenClassrooms
+<a href="https://openclassrooms.com/en/paths/878-javascript-react-developer" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/openclassrooms.svg" width="36" height="36" alt="OpenClassrooms" /></a>.
 
 I am now approaching PixiJS <a href="https://pixijs.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/Pixi.png" width="36" height="36" alt="PixiJS" /></a> to turn towards creative development. 
 
@@ -26,7 +26,7 @@ Self-taught in my first career, audiovisual sector in technical and strategic po
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/html5-colored.svg?token=GHSAT0AAAAAACAD4WJVW5V4IRPT4A6ENOHEZM34HUQ" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/css3-colored.svg?token=GHSAT0AAAAAACAD4WJUAQIF7UQBHX4QGESQZM34IMQ" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/sass-colored.svg?token=GHSAT0AAAAAACAD4WJVF3KC5YGR4PVQFJEWZM34JBA" width="36" height="36" alt="Sass" /></a>
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/styled-components-colored.svg?token=GHSAT0AAAAAACAD4WJVZ73KDOTR2JDDCNX2ZM34LBA" width="36" height="36" alt="Styled-components" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/styled-components.svg" width="36" height="36" alt="Styled-components" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/tailwindcss-colored.svg?token=GHSAT0AAAAAACAD4WJVZ73KDOTR2JDDCNX2ZM34LBA" width="36" height="36" alt="Tailwind CSS" /></a>
 <a  href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/bootstrap-colored.svg?token=GHSAT0AAAAAACAD4WJUSP77TD6WZ2Y6XQRGZM34L2Q" width="36" height="36" alt="Bootstrap" /></a>
 
@@ -50,8 +50,8 @@ Self-taught in my first career, audiovisual sector in technical and strategic po
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/macos.svg?token=GHSAT0AAAAAACAD4WJU2UZXTHSMXYYQFEYEZM34RHQ" width="36" height="36" alt="MacOS" /></a>
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/photoshop-colored.svg?token=GHSAT0AAAAAACAD4WJUCM6JBPLVBRLJPWP6ZM35DIQ" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/aftereffects-colored.svg?token=GHSAT0AAAAAACAD4WJVZABD6B6KJJSFDCSUZM35DRA" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/premierepro-colored.svg?token=GHSAT0AAAAAACAD4WJVAKKOELFRFDQ5FE4WZM35DYA" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/aftereffects.svg?token=GHSAT0AAAAAACAD4WJVZABD6B6KJJSFDCSUZM35DRA" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/premierepro-colored-dark.svg?token=GHSAT0AAAAAACAD4WJVAKKOELFRFDQ5FE4WZM35DYA" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.avid.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/avid-colored.svg?token=GHSAT0AAAAAACAD4WJUX6DGIDPLDXDHLJRIZM35FUQ" width="36" height="36" alt="Avid" /></a>
 <p align="left">
 </p>
