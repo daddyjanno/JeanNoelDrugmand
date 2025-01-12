@@ -34,7 +34,7 @@ More about me:
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
 <a  href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/javascript-colored.svg?token=GHSAT0AAAAAACAD4WJU7OFPZ5CEP3EIVZBYZM34M7A" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://typescript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/typescript-colored.svg?token=GHSAT0AAAAAACAD4WJVPZ234OF75WGBEXYAZM34NJA" width="36" height="36" alt="Typescript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/react-colored.svg?token=GHSAT0AAAAAACAD4WJVQVLOWSSY7VY4CGN4ZM34NVQ" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/redux-colored.svg?token=GHSAT0AAAAAACAD4WJVLJRBO77UDMHU63F4ZM34N3Q" width="36" height="36" alt="Redux" /></a>
