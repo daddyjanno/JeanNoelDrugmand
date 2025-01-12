@@ -27,12 +27,12 @@ More about me:
 
 ### Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/html5-colored.svg?token=GHSAT0AAAAAACAD4WJVW5V4IRPT4A6ENOHEZM34HUQ" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/css3-colored.svg?token=GHSAT0AAAAAACAD4WJUAQIF7UQBHX4QGESQZM34IMQ" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/sass-colored.svg?token=GHSAT0AAAAAACAD4WJVF3KC5YGR4PVQFJEWZM34JBA" width="36" height="36" alt="Sass" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/styled-components.svg" width="36" height="36" alt="Styled-components" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/tailwindcss-colored.svg?token=GHSAT0AAAAAACAD4WJVZ73KDOTR2JDDCNX2ZM34LBA" width="36" height="36" alt="Tailwind CSS" /></a>
-<a  href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/bootstrap-colored.svg?token=GHSAT0AAAAAACAD4WJUSP77TD6WZ2Y6XQRGZM34L2Q" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+<a  href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/javascript-colored.svg?token=GHSAT0AAAAAACAD4WJU7OFPZ5CEP3EIVZBYZM34M7A" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://typescript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/main/skills/typescript-colored.svg?token=GHSAT0AAAAAACAD4WJVPZ234OF75WGBEXYAZM34NJA" width="36" height="36" alt="Typescript" /></a>
