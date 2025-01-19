@@ -13,7 +13,7 @@ I started with HTML and CSS, then Ruby, Rails, JavaScript, SQL, API, Figma... @L
 then React, Redux and TypeScript @OpenClassrooms
 <a href="https://openclassrooms.com/en/paths/878-javascript-react-developer" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/openclassrooms.svg" width="36" height="36" alt="OpenClassrooms" /></a>.
 
-I am now approaching PixiJS <a href="https://pixijs.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/Pixi.png" width="36" height="36" alt="PixiJS" /></a> to turn towards creative development. 
+I am now Creative Developer apprentice at PlayPlay working with PixiJS <a href="https://pixijs.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/Pixi.png" width="36" height="36" alt="PixiJS" /></a> and AnimeJS <a href="https://animejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/refs/heads/main/skills/animejs.jpg" width="36" height="36" alt="PixiJS" /></a>
 
 Self-taught in my first career, audiovisual sector in technical and strategic positions, I know the importance of teamwork,   
 and I rely on my rigor and my team spirit to take on new challenges.
