@@ -6,11 +6,9 @@ Fullstack Developer, former team leader and manager
 
 
 I've been learning to code after switching careers.
-
 I started with HTML and CSS, then Ruby, Rails, JavaScript, SQL, API, Figma... @Le Wagon
 <a href="https://lewagon.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/lewagon.svg" width="36" height="36" alt="Le Wagon" /></a>
-,  
-then React, Redux and TypeScript @OpenClassrooms
+, then React, Redux and TypeScript @OpenClassrooms
 <a href="https://openclassrooms.com/en/paths/878-javascript-react-developer" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/openclassrooms.svg" width="36" height="36" alt="OpenClassrooms" /></a>.
 
 I am now Creative Developer apprentice at PlayPlay <a href="https://playplay.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/PlayPlay Favicon.svg" width="36" height="36" alt="Le Wagon" /></a> working with PixiJS <a href="https://pixijs.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/skills/Pixi.png" width="36" height="36" alt="PixiJS" /></a> and AnimeJS <a href="https://animejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/daddyjanno/Icons/refs/heads/main/skills/animejs.jpg" width="36" height="36" alt="PixiJS" /></a>
