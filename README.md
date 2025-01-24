@@ -6,6 +6,7 @@ Fullstack Developer, former team leader and manager
 
 
 I've been learning to code after switching careers.
+
 I started with HTML and CSS, then Ruby, Rails, JavaScript, SQL, API, Figma... @Le Wagon
 <a href="https://lewagon.com" target="_blank" rel="noreferrer"><img src="https://github.com/daddyjanno/Icons/blob/main/schools/lewagon.svg" width="36" height="36" alt="Le Wagon" /></a>
 ,  
